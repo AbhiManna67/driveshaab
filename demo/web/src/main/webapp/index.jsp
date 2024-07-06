@@ -14,7 +14,7 @@
 <body>
   <h1> Ride With Us</h1>
   <p>
-    Enjoy.....
+    Enjoy....
   </p>
 </body>
 </html>
