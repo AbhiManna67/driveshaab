@@ -11,9 +11,9 @@
     <title>Welcome to Driversahaab</title>
 </head>
 <body>
-  <h1>Application</h1>
+  <h1>Ride With us</h1>
   <p>
-    Join with us!
+    Enjoy ...
   </p>
 </body>
 </html>
